@@ -1,6 +1,6 @@
 <h2>Hi, I'm Alžbeta!</h2>
 <br />
-<p>👩‍💻 Software Engineer focused on frontend development, creating accessible and user-friendly designs.</p>
+<p>👩‍💻 Software Engineer focused on frontend development, creating accessible and user-friendly websites.</p>
 <p>💭 Currently learning about accessibility and cybersecurity. </p>
 
 <h2>💻 Tech stack</h2>

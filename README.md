@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align='center'>
+  <h2>My contribution</h2>
+  <br />
+  <img alt="snake eating my contributions" />
+  
+</div>

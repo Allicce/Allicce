@@ -50,6 +50,12 @@
 
 <h2>🥋 My contribution</h2>
 <br />
-<img alt="snake eating my contributions" src="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg">
+  <!-- For light mode -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
   
 

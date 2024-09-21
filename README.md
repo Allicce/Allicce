@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <div align='center'>
   <h2>My contribution</h2>
   <br />
-  <img alt="snake eating my contributions" />
+  <img alt="snake eating my contributions" src="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg"/>
   
 </div>

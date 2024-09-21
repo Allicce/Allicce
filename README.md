@@ -1,4 +1,4 @@
-<h2>Hi, I'm Alžbeta!</h2>
+<h2>👋 Hi, I'm Alžbeta!</h2>
 <br />
 <p>👩‍💻 Software Engineer focused on frontend development, creating accessible and user-friendly websites.</p>
 <p>💭 Currently learning about accessibility and cybersecurity. </p>

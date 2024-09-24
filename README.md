@@ -58,6 +58,9 @@
   <img alt="snake eating my contributions" src="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+<h2>⭐ My favorite channels</h2>
+<br />
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![All 17 React Best Practices (IMPORTANT!)](https://ytcards.demolab.com/?id=5r25Y9Vg2P4&title=All+17+React+Best+Practices+%28IMPORTANT%21%29&lang=en&timestamp=1722538579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "All 17 React Best Practices (IMPORTANT!)")](https://www.youtube.com/watch?v=5r25Y9Vg2P4)
 [![Improve your reset with these modern CSS additions](https://ytcards.demolab.com/?id=eWmDW4zEXt4&title=Improve+your+reset+with+these+modern+CSS+additions&lang=en&timestamp=1725454846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Improve your reset with these modern CSS additions")](https://www.youtube.com/watch?v=eWmDW4zEXt4)

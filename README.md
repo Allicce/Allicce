@@ -57,5 +57,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake.svg">
   <img alt="snake eating my contributions" src="https://github.com/Allicce/Allicce/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
   
 
